@@ -1,5 +1,11 @@
 
 ### The Most Powerful NLP-Weapon Arsenal
+### The Most Inclusive Chinese-NLP Resourse
+
+Original: https://github.com/fighting41love/funNLP
+
+Modified and Optimized by Wondereras
+
 
 ## NLP民工的乐园: 几乎最全的中文NLP资源库
 - 词库
@@ -1234,5 +1240,6 @@ for word in misspelled:
 **362\. Macadam：以Tensorflow(Keras)和bert4keras为基础，专注于文本分类、序列标注和关系抽取的自然语言处理工具包** [github](https://github.com/yongzhuo/Macadam)
 
 **363\. 用新版nlp库加载17GB+英文维基语料只占用9MB内存遍历速度2-3 Gbit/s** [github](https://gist.github.com/thomwolf/13ca2b2b172b2d17ac66685aa2eeba62)
+
 
 
